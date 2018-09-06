@@ -41,7 +41,7 @@ Syntax highlighted code block
 ## - Bulleted lists
 1. friendly TAs
 2. easy understanding lecture
-## some links
+## - Some links
 [GitHub](http://github.com) and ![GitHub Logo](/images/logo.png)(src)
 
 
