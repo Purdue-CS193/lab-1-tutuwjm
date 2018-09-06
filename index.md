@@ -41,13 +41,7 @@ Syntax highlighted code block
 ## - Bulleted lists
 1. friendly TAs
 2. easy understanding lecture
-
-### Header 3
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
+## some links
 [GitHub](http://github.com) and ![GitHub Logo](/images/logo.png)(src)
+
+
