@@ -35,9 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-#YUEZE CAO's perdonal github page
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
 - Bulleted
 - List
 
 1. friendly TAs
 2. easy understanding lecture
+
+**Bold** and _Italic_ and `Code` text
+
+[GitHub](http://github.com) and ![GitHub Logo](/images/logo.png)(src)
